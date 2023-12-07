@@ -20,7 +20,7 @@ const MyInfoCard = () => {
                     />
                 </div>
                 <div className='ml-5'>
-                    <h4 className='font-bold'>Syeda Maham Fahim 🇵🇰</h4>
+                    <h4 className='font-bold'> Mike Abramo </h4>
                     <p className='line-clamp-1 text-xl'>💻 ✍ ℡ 🚀⚡️ </p>
                 </div>
                 

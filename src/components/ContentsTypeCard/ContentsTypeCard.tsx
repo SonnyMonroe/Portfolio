@@ -21,9 +21,10 @@ const ContentsTypeCard = () => {
                     </Link>
                 );
             })}
-            <a href={"https://github.com/SyedaMahamFahim"}
-            target="_blank"
-            rel="noreferrer"
+            <a
+                href={"https://github.com/SonnyMonroe"}
+                target='_blank'
+                rel='noreferrer'
             >
                 <span
                     className={styleCss}
